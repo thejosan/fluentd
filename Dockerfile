@@ -1,1 +1,1 @@
-FROM fluent/fluentd-kubernetes-daemonset:elasticsearch
+FROM fluent/fluentd-kubernetes-daemonset:v0.12-alpine-elasticsearch
